@@ -13,7 +13,7 @@ Nine years in high-volume BPO operations taught me where manual work hides. If i
 </p>
 
 > **Want to know if one of these fits your business?**
-> [Book a fit call →](https://cal.com/christian-john-vallejos-adws8d/60min) · [WhatsApp +63 REDACTED →](https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.)
+> [Book a fit call →](https://cal.com/christian-john-vallejos-adws8d/60min) · [Email me →](mailto:kristiandyanbusiness@gmail.com)
 
 🌐 Films and write-ups for every build: [potaterrr.github.io](https://potaterrr.github.io)
 
@@ -40,16 +40,12 @@ Engagement options (Automation Sprint · Workflows · Automation Partner) are on
 
 ## 📬 Contact
 
-*   **💬 WhatsApp:** [+63 REDACTED](https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.) *(preferred)*
 *   **📅 Book a fit call:** [cal.com/christian-john-vallejos-adws8d](https://cal.com/christian-john-vallejos-adws8d/60min)
 *   **📘 Facebook:** [Potaterrr](https://www.facebook.com/profile.php?id=61593886946042)
 *   **📧 Email:** [kristiandyanbusiness@gmail.com](mailto:kristiandyanbusiness@gmail.com)
 *   **💬 Discord:** `potaterrr`
 
 <p align="left">
-  <a href="https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B63_REDACTED-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
   <a href="https://cal.com/christian-john-vallejos-adws8d/60min">
     <img src="https://img.shields.io/badge/Book_a_fit_call-60_min-6D00CC?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a fit call" />
   </a>
