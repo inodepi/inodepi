@@ -2,6 +2,9 @@
 
 **Python automation developer** transitioning from 6+ years of fast-paced BPO operations and moderation into building smart systems. I build pipelines connecting data to Make.com and n8n — turning tedious, high-volume tasks into seamless workflows. 🥔
 
+> **Need a process automated?** I scope it, build it, and hand it over documented.
+> [Book a 20-min fit call →](https://cal.com/christian-john-vallejos-adws8d/60min) · [WhatsApp me →](https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.)
+
 📞 **Featured: [AI Voice Receptionist](https://github.com/potaterrr/voice-receptionist)** — answers missed calls, books appointments, and a **🔒 HIPAA-compliant build is available**.
 
 <p align="left">
@@ -117,8 +120,6 @@ Install ([dotfiles](https://github.com/potaterrr/dotfiles)):
 
 [![Animated terminal: curl -fsSL https://potaterrr.github.io/install | sh](assets/install-terminal.svg)](https://potaterrr.github.io/install)
 
-</div>
-
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -130,17 +131,17 @@ Install ([dotfiles](https://github.com/potaterrr/dotfiles)):
 
 You can reach me anywhere below.
 
-*   **💬 WhatsApp:** [@potaiterrr](https://wa.me/potaiterrr) *(preferred)*
-*   **✈️ Telegram:** [@portaterrrr](https://t.me/portaterrrr)
+*   **💬 WhatsApp:** [+63 REDACTED](https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.) *(preferred)*
+*   **📅 Book a fit call:** [cal.com/christian-john-vallejos-adws8d](https://cal.com/christian-john-vallejos-adws8d/60min)
 *   **📘 Facebook:** [Potaterrr](https://www.facebook.com/profile.php?id=61593886946042)
 *   **📧 Email:** [kristiandyanbusiness@gmail.com](mailto:kristiandyanbusiness@gmail.com)
 
 <p align="left">
-  <a href="https://wa.me/potaiterrr">
-    <img src="https://img.shields.io/badge/WhatsApp-potaiterrr-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B63_REDACTED-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://t.me/portaterrrr">
-    <img src="https://img.shields.io/badge/Telegram-Message_Me-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://cal.com/christian-john-vallejos-adws8d/60min">
+    <img src="https://img.shields.io/badge/Book_a_fit_call-20_min-6D00CC?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a fit call" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61593886946042">
     <img src="https://img.shields.io/badge/Facebook-Potaterrr-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
