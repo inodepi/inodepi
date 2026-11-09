@@ -19,14 +19,14 @@ Nine years in high-volume BPO operations taught me where manual work hides. If i
 
 ## 🧰 What I build
 
-Four automations running in production — the repos below are the real ones, each mirrored with a one-minute film on the site. Human approval where it matters.
+Four automations running in production. Each one has a film on the site that walks through the problem, the build and the branches — hit **▶ film** to watch, or open the repo. Human approval where it matters.
 
 | Build | What it does | Open |
 |---|---|---|
-| **📞 AI Voice Receptionist** | Answers missed and after-hours calls for clinics, captures intake, books appointments and logs every call — built three times over one shared Retell voice layer, so platforms can be compared before choosing one. **🔒 HIPAA-compliant build available.** | [repo](https://github.com/potaterrr/voice-receptionist) |
-| **🧾 AR Invoice Reminder** | Reads the invoice tracker, computes days past due, and files a tone-matched reminder as a **Gmail draft** — a human still presses send. | [repo](https://github.com/potaterrr/ar-invoice-reminder-agent) |
-| **💤 Dead Lead Retrieval** | Drafts personalized check-ins for stale leads, files them as Gmail drafts, and tracks every lead in your CRM — with a human always in the loop. | [repo](https://github.com/potaterrr/dead-lead-retrieval) |
-| **📊 Sales Call QA & Coaching** | Scores every sales call with Gemini, verifies quotes against the transcript, and sends a weekly coaching digest to the team. | [film & docs](https://potaterrr.github.io/projects/sales-call-qa/) |
+| **📞 AI Voice Receptionist** | Answers missed and after-hours calls for appointment-based businesses — salons, clinics, med spas, trades — captures intake, books appointments and logs every call. Built three times over one shared Retell voice layer. **🔒 HIPAA-compliant build available.** | [▶ film](https://potaterrr.github.io/projects/ai-voice-receptionist/) · [repo](https://github.com/potaterrr/voice-receptionist) |
+| **🧾 AR Invoice Reminder** | Reads the invoice tracker, computes days past due, and files a tone-matched reminder as a **Gmail draft** — a human still presses send. | [▶ film](https://potaterrr.github.io/projects/ar-invoice-reminder/) · [repo](https://github.com/potaterrr/ar-invoice-reminder-agent) |
+| **💤 Dead Lead Retrieval** | Drafts personalized check-ins for stale leads, files them as Gmail drafts, and tracks every lead in your CRM — with a human always in the loop. | [▶ film](https://potaterrr.github.io/projects/dead-lead-retrieval/) · [repo](https://github.com/potaterrr/dead-lead-retrieval) |
+| **📊 Sales Call QA & Coaching** | Scores every sales call with Gemini, verifies quotes against the transcript, and sends a weekly coaching digest to the team. | [▶ film & docs](https://potaterrr.github.io/projects/sales-call-qa/) |
 
 ## 🚀 How it works
 
