@@ -1,64 +1,70 @@
 # Hi, I'm **Christian John** — but everybody calls me **potaterrr** 🥔
 
-**Python automation developer** transitioning from 6+ years of fast-paced BPO operations and moderation into building smart systems. I build pipelines connecting data to Make.com and n8n — turning tedious, high-volume tasks into seamless workflows. 🥔
+**Missed calls answered. Appointments booked. Boring work automated.** 🥔
 
-> **Need a process automated?** I scope it, build it, and hand it over documented.
-> [Book a 20-min fit call →](https://cal.com/christian-john-vallejos-adws8d/60min) · [WhatsApp me →](https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.)
+I'm Christian John — aka potaterrr. I build the automation behind that: AI voice receptionists for clinics, workflow integrations, AI agents, scrapers and ops pipelines — built on **n8n by default**, with Make, Zapier or Python when your stack demands it.
 
-📞 **Featured: [AI Voice Receptionist](https://github.com/potaterrr/voice-receptionist)** — answers missed calls, books appointments, and a **🔒 HIPAA-compliant build is available**.
+Nine years in high-volume BPO operations taught me where manual work hides. If it's repetitive, I'll automate it.
 
 <p align="left">
-  <a href="https://github.com/potaterrr/voice-receptionist">
-    <img src="https://img.shields.io/badge/%F0%9F%94%92_HIPAA--compliant_build_available-2ea886?style=for-the-badge" alt="HIPAA-compliant build available" />
+  <img src="https://img.shields.io/badge/4_automations-running_in_production-2ea886?style=for-the-badge" alt="4 automations running in production" />
+  <img src="https://img.shields.io/badge/default_stack-n8n_·_Make_·_Zapier_·_Python-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="Default stack: n8n, Make, Zapier, Python" />
+  <img src="https://img.shields.io/badge/experience-9_yrs_high--volume_ops-6D00CC?style=for-the-badge" alt="9 years in high-volume operations" />
+</p>
+
+> **Want to know if one of these fits your business?**
+> [Book a fit call →](https://cal.com/christian-john-vallejos-adws8d/60min) · [WhatsApp +63 REDACTED →](https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.)
+
+🌐 Films and write-ups for every build: [potaterrr.github.io](https://potaterrr.github.io)
+
+## 🧰 What I build
+
+Four automations running in production — the repos below are the real ones, each mirrored with a one-minute film on the site. Human approval where it matters.
+
+| Build | What it does | Open |
+|---|---|---|
+| **📞 AI Voice Receptionist** | Answers missed and after-hours calls for clinics, captures intake, books appointments and logs every call — built three times over one shared Retell voice layer, so platforms can be compared before choosing one. **🔒 HIPAA-compliant build available.** | [repo](https://github.com/potaterrr/voice-receptionist) |
+| **🧾 AR Invoice Reminder** | Reads the invoice tracker, computes days past due, and files a tone-matched reminder as a **Gmail draft** — a human still presses send. | [repo](https://github.com/potaterrr/ar-invoice-reminder-agent) |
+| **💤 Dead Lead Retrieval** | Drafts personalized check-ins for stale leads, files them as Gmail drafts, and tracks every lead in your CRM — with a human always in the loop. | [repo](https://github.com/potaterrr/dead-lead-retrieval) |
+| **📊 Sales Call QA & Coaching** | Scores every sales call with Gemini, verifies quotes against the transcript, and sends a weekly coaching digest to the team. | [film & docs](https://potaterrr.github.io/projects/sales-call-qa/) |
+
+## 🚀 How it works
+
+Three steps from "we do this by hand" to "it runs itself."
+
+1. **Fit call** — a 60-minute call. We map the process, count the hours it eats, and decide together whether automation is worth it. If it isn't, I say so.
+2. **Build the sprint** — fixed scope, 2–3 weeks. You see a working automation in your own stack early, not a proposal deck. Weekly check-ins, no surprises.
+3. **Handoff** — documentation, a walkthrough, and a live automation running without me. Need ongoing tuning? The partner retainer covers it.
+
+Engagement options (Automation Sprint · Workflows · Automation Partner) are on the site: [work-with-me](https://potaterrr.github.io/work-with-me/). No prices are published anywhere — scope and quote follow the fit call. You own the automation and your data: everything is built in your accounts and stays exportable.
+
+## 📬 Contact
+
+*   **💬 WhatsApp:** [+63 REDACTED](https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.) *(preferred)*
+*   **📅 Book a fit call:** [cal.com/christian-john-vallejos-adws8d](https://cal.com/christian-john-vallejos-adws8d/60min)
+*   **📘 Facebook:** [Potaterrr](https://www.facebook.com/profile.php?id=61593886946042)
+*   **📧 Email:** [kristiandyanbusiness@gmail.com](mailto:kristiandyanbusiness@gmail.com)
+*   **💬 Discord:** `potaterrr`
+
+<p align="left">
+  <a href="https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B63_REDACTED-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://cal.com/christian-john-vallejos-adws8d/60min">
+    <img src="https://img.shields.io/badge/Book_a_fit_call-60_min-6D00CC?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a fit call" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61593886946042">
+    <img src="https://img.shields.io/badge/Facebook-Potaterrr-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:kristiandyanbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-🧾 **New: [AR Invoice Reminder Agent](https://github.com/potaterrr/ar-invoice-reminder-agent)** — reads an invoice tracker, drafts tone-matched overdue reminders with Gemini, and files every one as a **Gmail draft**. Never auto-sent.
+Open to new builds, automation strategy, or a retainer for what I hand over. If the boring stuff is eating your week, I know a workflow for that. 🥔
 
-🌐 Portfolio site: [potaterrr.github.io](https://potaterrr.github.io)
-
-🔎 Searching *potater* lands here too — same potato, fewer letters.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/OpenRouter_LLMs-6467F2?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Webhooks-F62D00?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
-</p>
-
-## 🥔 Featured Projects
-
-<table>
-  <tr>
-    <th width="34%">📞 <a href="https://github.com/potaterrr/voice-receptionist">AI Voice Receptionist</a><br><sub>🔒 HIPAA-compliant build available</sub></th>
-    <th width="33%">💤 <a href="https://github.com/potaterrr/dead-lead-retrieval">Dead Lead Retrieval</a></th>
-    <th width="33%">🧾 <a href="https://github.com/potaterrr/ar-invoice-reminder-agent">AR Invoice Reminder Agent</a></th>
-  </tr>
-  <tr>
-    <td valign="top">
-      An AI receptionist that answers missed calls and books appointments — built <b>three times</b> (Make / n8n / Zapier) on a shared Retell voice layer, so platforms can be compared apples-to-apples before choosing one.<br><br>
-      • <b>🔒 HIPAA-compliant build available</b> — BAAs, access controls and audit logging on request<br>
-      • Answers instantly, capturing name, number, intent and preferred slot as structured data<br>
-      • Conflict-checks Google Calendar, books real slots, alerts the owner with a summary<br>
-      • n8n branch live on synthetic payloads — real phone calls are one Retell agent away
-    </td>
-    <td valign="top">
-      An AI-powered, human-in-the-loop automation that resurrects dormant leads: an LLM writes personalized check-in emails, files them as <b>Gmail drafts</b> (never auto-sent!), drops a booking button into every one, and tracks each lead through the review lifecycle on ClickUp.<br><br>
-      • <b>Human-in-the-loop by design</b> — AI drafts, human approves, nothing sends itself<br>
-      • Anti-hallucination guardrails: the only link in any email is mine<br>
-      • Full setup guide, config reference and production-tested lessons in the README
-    </td>
-    <td valign="top">
-      An n8n accounts-receivable agent that reads an invoice tracker every morning, computes days past due in code, and drafts a payment reminder whose tone escalates with the delay. Every email is filed as a <b>Gmail draft</b> for review.<br><br>
-      • <b>Never auto-sends</b> — AI drafts, a human presses send<br>
-      • Tone computed, not guessed: 1–14 friendly · 15–30 firm · 31+ offers a payment plan<br>
-      • Strict JSON output, signature enforced in code, no placeholders left behind<br>
-      • 7-day cooldown per invoice, then the follow-up date is logged back to the sheet
-    </td>
-  </tr>
-</table>
+<details>
+<summary>🛠️ Dev stuff — other projects, how I work, dotfiles, GitHub stats</summary>
 
 ## 🚀 Other Projects
 
@@ -127,31 +133,9 @@ Install ([dotfiles](https://github.com/potaterrr/dotfiles)):
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=potaterrr&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
 </p>
 
-## 📬 Contact
+🔎 Searching *potater* lands here too — same potato, fewer letters.
 
-You can reach me anywhere below.
-
-*   **💬 WhatsApp:** [+63 REDACTED](https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.) *(preferred)*
-*   **📅 Book a fit call:** [cal.com/christian-john-vallejos-adws8d](https://cal.com/christian-john-vallejos-adws8d/60min)
-*   **📘 Facebook:** [Potaterrr](https://www.facebook.com/profile.php?id=61593886946042)
-*   **📧 Email:** [kristiandyanbusiness@gmail.com](mailto:kristiandyanbusiness@gmail.com)
-
-<p align="left">
-  <a href="https://wa.me/REDACTED?text=Hi%21%20I%27d%20like%20to%20talk%20about%20automating%20a%20process.">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B63_REDACTED-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://cal.com/christian-john-vallejos-adws8d/60min">
-    <img src="https://img.shields.io/badge/Book_a_fit_call-20_min-6D00CC?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a fit call" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61593886946042">
-    <img src="https://img.shields.io/badge/Facebook-Potaterrr-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:kristiandyanbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-Open to discussing new technologies, automation strategies, or freelance opportunities — including HIPAA-compliant voice receptionist builds for healthcare practices. If your leads are gathering dust, I know a workflow for that too. 🥔
+</details>
 
 ---
 <p align="center"><i>"Mashing the boring stuff so you don't have to."</i></p>
