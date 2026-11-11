@@ -91,6 +91,7 @@ An automated news curation pipeline for the **AI Tech & Automation Hub** Faceboo
 - **GitHub Actions** cron runs it every Sunday at 6:00 AM PHT
 - Keyword filtering + `seen_articles.json` dedupe so nothing posts twice
 - A random banner image from the repo rides along with every digest
+- Runs on the **Make.com free tier** — a weekly digest uses ~5 ops of the 1,000/month budget
 
 ### [make-commits](https://github.com/potaterrr/make-commits)
 A Make.com automation that posts every GitHub push to a Facebook Page as a digest — instantly, via webhooks. Built and running entirely on the Make.com free tier.
