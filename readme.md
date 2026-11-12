@@ -57,21 +57,3 @@ If it's repetitive, I'll automate it.
 > **Irrational. Just like π.**
 > Films, build pages and the full blueprint: [inodepi.github.io](https://inodepi.github.io)
 
----
-
-<details>
-<summary>🗂 More automation pipelines</summary>
-
-### [job-scrapper](https://github.com/inodepi/job-scrapper)
-Python scraper for OnlineJobs.ph — pushes matching listings as JSON to a webhook for downstream automation. Runs on GitHub Actions every 4 hours; migrating to an n8n workflow.
-
-### [signal-checker](https://github.com/inodepi/signal-checker)
-Evaluates an SMA crossover strategy on daily prices and dispatches BUY/SELL/HOLD signals to a Make.com webhook via GitHub Actions.
-
-### [rss-news](https://github.com/inodepi/rss-news)
-Automated news curation for a Facebook page: Python fetches tech/AI RSS feeds, filters by keyword and sends a digest to Make.com for Gemini drafting + Facebook publishing.
-
-### [make-commits](https://github.com/inodepi/make-commits)
-Make.com automation that posts every GitHub push to a Facebook Page as a digest — instant, one post per push, free tier only.
-
-</details>
