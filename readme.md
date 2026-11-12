@@ -1,4 +1,6 @@
-# Your operations, wired end to end.
+<p align="center">
+  <img src="assets/readme-banner.png" alt="inodepi — n8n automation architect. Your operations, wired end to end." width="100%" />
+</p>
 
 **n8n automation architect.** I build multi-workflow systems that connect APIs,
 webhooks, AI pipelines and CRM operations into one dependable pipeline. AI voice
